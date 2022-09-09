@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#08b8f7"/>
+      <stop offset="1" stop-color="#0566eb"/>
+    </linearGradient>
+  </defs>
+  <g id="yt" transform="translate(-517 -503)">
+    <g id="Group_15" data-name="Group 15">
+      <circle id="youtube" cx="8.5" cy="8.5" r="8.5" transform="translate(517 503)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="Path_324" data-name="Path 324" d="M360.866,859.047v-1.582l-1.493-2.865h.921l.985,2.052.978-2.052h.908l-1.487,2.865v1.582Zm3.856,0v-3.793h-1.3V854.6h3.411v.654h-1.3v3.793Z" transform="translate(162.627 -345.6)" fill="#fff"/>
+  </g>
+</svg>

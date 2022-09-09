@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#08b8f7"/>
+      <stop offset="1" stop-color="#0566eb"/>
+    </linearGradient>
+  </defs>
+  <g id="fb" transform="translate(-474 -503)">
+    <circle id="fb-2" data-name="fb" cx="8.5" cy="8.5" r="8.5" transform="translate(474 503)" fill="url(#linear-gradient)"/>
+    <path id="Path_327" data-name="Path 327" d="M279.816,859.047V854.6h2.871v.654h-2.058V856.5h1.664v.642h-1.664v1.906Zm3.5,0V854.6H285.1a1.533,1.533,0,0,1,1.055.324,1.032,1.032,0,0,1,.368.82.969.969,0,0,1-.229.673,1.116,1.116,0,0,1-.546.337,1.1,1.1,0,0,1,.877,1.08,1.12,1.12,0,0,1-.381.87,1.559,1.559,0,0,1-1.08.343Zm.813-2.579h.851a.785.785,0,0,0,.527-.159.563.563,0,0,0,.184-.451.548.548,0,0,0-.184-.438.77.77,0,0,0-.54-.165h-.839Zm0,1.919h.908a.846.846,0,0,0,.559-.165.59.59,0,0,0,.2-.477.607.607,0,0,0-.21-.489.846.846,0,0,0-.565-.178h-.9Z" transform="translate(199.32 -345.17)" fill="#fff"/>
+  </g>
+</svg>
