@@ -6,7 +6,7 @@ This clone is built using **HTML5, CSS3 and Media Query**.
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://webhostingbyanup.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
@@ -21,7 +21,7 @@ This clone is built using **HTML5, CSS3 and Media Query**.
 
 <br>
 
-![Screenshot](./images/ScreenCapture.png)
+![Screenshot](./images/screencapture.png)
 
 ## 📌 My process
 
